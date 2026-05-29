@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ip13-silicone",
+    "name": "Capinha iPhone 13 - Silicone",
+    "price": 79.9,
+    "stock": 5,
+    "imageUrl": "https://images.unsplash.com/photo-mock"
+  },
+  {
+    "id": "ip14-clear",
+    "name": "Capinha iPhone 14 - Transparente",
+    "price": 49.9,
+    "stock": 0,
+    "imageUrl": "https://images.unsplash.com/photo-mock"
+  }
+]
