@@ -2,6 +2,7 @@
   "name": "case-cell-shop",
   "version": "1.0.0",
   "private": true,
+  "packageManager": "pnpm@10.18.2",
   "description": "Sistema de checkout resiliente para e-commerce de capinhas de celular.",
   "scripts": {
     "dev": "concurrently \"pnpm --dir backend start:dev\" \"pnpm --dir frontend dev\"",
